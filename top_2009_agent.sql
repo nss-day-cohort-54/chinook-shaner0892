@@ -2,7 +2,7 @@
 
 -- not working, need to add MAX
 
-SELECT SUM(i.total),
+S ELECT SUM(i.total),
     e.firstName, 
     e.lastName
 FROM invoice i
